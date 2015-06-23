@@ -1,1 +1,0 @@
-# sina_symfony
